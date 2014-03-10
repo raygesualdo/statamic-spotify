@@ -11,7 +11,7 @@ The Spotify Playlist plugin for Statamic allows you to embed Spotify playlists b
 Drop the `{{ spotify }}` tag anywhere your heart desires.
 
 ##Parameter
-`{{ svgi }}` accepts the following parameter:
+`{{ spotify }}` accepts the following parameter:
  - __uri__: URI for the Spotify playlist (required)
  
 ##TODO
